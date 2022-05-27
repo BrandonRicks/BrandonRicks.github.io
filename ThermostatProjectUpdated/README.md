@@ -1,4 +1,4 @@
-# CS-350 Portfolio - SingleByte Project
+# CS-350 Portfolio
 
 ## Summarize the project and what problem it was solving.
 The purpose of this project was to use a single byte stored in a serial buffer. Characters were iterated using a switch/case to allow the user to type 'on' or 'off' into the terminal, which would control the LED on the board, based on whether 'on' or 'off' were typed.
