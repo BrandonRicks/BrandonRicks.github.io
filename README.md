@@ -9,7 +9,7 @@
 
 ## Code Review
 ## Enhancements
-### [Software Design & Engineering](https://github.com/BrandonRicks/CS-499-GitHub-ePortfolio/tree/main/ThermostatProjectUpdated)
-### [Algorithm & Data Structures](https://github.com/BrandonRicks/CS-499-GitHub-ePortfolio/tree/main/Lab6-2)
+### [Software Design & Engineering](https://github.com/BrandonRicks/brandonricks.github.io/tree/main/ThermostatProjectUpdated)
+### [Algorithm & Data Structures](https://github.com/BrandonRicks/brandonricks.github.io/tree/main/Lab6-2)
 ### [Databases]
 ## Self-Relection
