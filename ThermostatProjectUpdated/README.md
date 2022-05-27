@@ -1,24 +1,3 @@
-# CS-350 Portfolio
-
-## Summarize the project and what problem it was solving.
-The purpose of this project was to use a single byte stored in a serial buffer. Characters were iterated using a switch/case to allow the user to type 'on' or 'off' into the terminal, which would control the LED on the board, based on whether 'on' or 'off' were typed.
-
-## What did you do particularly well?
-I feel like I did pretty well with the switch/case, especially for my first real attempt at one. It took a bit of trial and error, but came together quite nicely.
-
-## Where could you improve?
-The code could be simplified even further if I had put the inputs in the transition arc, rather than within if statements.
-
-## What tools and/or resources are you adding to your support network?
-I'm adding more experience to using both CCS, as well as experience in programming the MCU. Prior to this class, I had never used one before, so there was a lot of learning involved. This, along with other projects, will be useful to look back to at later dates.
-
-## What skills from this project will be particularly transferable to other projects and/or course work?
-Much of the skills surrounding code structure, as well as my understanding of embedded systems, will be very useful moving forward.
-
-## How did you make this project maintainable, readable, and adaptable?
-Though I have a habit of sometimes overthinking a solution, I try to keep code clean and easy to follow whenever possible. This code could be adjusted relatively easily to alter the required output by adding or removing to the switch/case.
-
-
 # CS-350 Portfolio - Thermostat Project
 
 ## Summarize the project and what problem it was solving.
