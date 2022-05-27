@@ -9,7 +9,7 @@
 
 ## Code Review
 ## Enhancements
-### Software Design & Engineering
-### [Algorithm & Data Structures](https://github.com/BrandonRicks/CS-260---Data-Structures-Algorithms/tree/main/Lab6-2)
-### Databases
+### [Software Design & Engineering](https://github.com/BrandonRicks/BrandonRicks.github.io/tree/main/ThermostatProjectUpdated)
+### [Algorithm & Data Structures](https://github.com/BrandonRicks/BrandonRicks.github.io/tree/main/Lab6-2)
+### [Databases]
 ## Self-Relection
