@@ -77,7 +77,7 @@
 ## Self-Relection
 ## Contact
 Name: Brandon Ricks<br/>
-Email: brandon.ricks@snhu.edu
+Email: [brandon.ricks@snhu.edu](mailto::brandon.ricks@snhu.edu)
 
 ## References
 [*Best Practices for Code Review.* (2021). Smartbear.com.](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)<br/>
