@@ -2,7 +2,7 @@
 
 [1. Code Review](#code-review)<br/>
 [2. Enhancements](#enhancements)<br/>
-&emsp;[2.1. Software Design & Engineering](#software-design--Engineering)<br/>
+&emsp;[2.1. Software Design & Engineering](#software-design--engineering)<br/>
 &emsp;[2.2. Algorithm & Data Structures](#algorithm--data-structures)<br/>
 &emsp;[2.3. Databases](#databases)<br/>
 [3. Self-Reflection](#self-reflection)<br/>
@@ -77,13 +77,13 @@
 ## Self-Relection
 ## Contact
 Name: Brandon Ricks<br/>
-Email: brandon.ricks@snhu.edu
+Email: [brandon.ricks@snhu.edu](mailto:brandon.ricks@snhu.edu)
 
 ## References
-*Best Practices for Code Review.* (2021). Smartbear.com. https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/<br/>
+[*Best Practices for Code Review.* (2021). Smartbear.com.](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)<br/>
 
-Conklin, L., & Robinson, G. (2017). *CODE REVIEW GUIDE RELEASE Creative Commons (CC) Attribution.* https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf<br/>
+[Conklin, L., & Robinson, G. (2017). *CODE REVIEW GUIDE RELEASE Creative Commons (CC) Attribution.*](https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)<br/>
 
-Dean. (2019, July 24). *Best Practices and Techniques For Reviewing Code.* Codegrip. https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/<br/>
+[Dean. (2019, July 24). *Best Practices and Techniques For Reviewing Code.* Codegrip.](https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/)<br/>
 
-*The Importance of Code Reviews.* (2021, February 2). 3Pillar Global. https://www.3pillarglobal.com/insights/the-importance-of-code-reviews
+[*The Importance of Code Reviews.* (2021, February 2). 3Pillar Global.](https://www.3pillarglobal.com/insights/the-importance-of-code-reviews)
