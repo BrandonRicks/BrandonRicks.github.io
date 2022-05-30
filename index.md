@@ -86,4 +86,4 @@ Conklin, L., & Robinson, G. (2017). *CODE REVIEW GUIDE RELEASE Creative Commons 
 
 Dean. (2019, July 24). *Best Practices and Techniques For Reviewing Code.* Codegrip. https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/<br/>
 
-*The Importance of Code Reviews.* (2021, February 2). 3Pillar Global. https://www.3pillarglobal.com/insights/the-importance-of-code-reviews/#:~:text=The%20Benefits%20of%20Code%20Reviews&text=Improves%20code%20quality%E2%80%93Code%20reviews,for%20seamless%20integration%20and%20functionality. 
+*The Importance of Code Reviews.* (2021, February 2). 3Pillar Global. https://www.3pillarglobal.com/insights/the-importance-of-code-reviews
