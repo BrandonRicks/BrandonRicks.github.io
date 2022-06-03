@@ -74,6 +74,26 @@
 <br/>&emsp;&emsp;I didn’t meet with too many challenges, as the code functioned well originally, and the CRUD functionality was logically sound. However, as this code was written a few years ago, it is interesting to see how one evolves and develops over time, and so going back to older projects has given me some insight into my progress over the years. I learned a lot about my progress and was able to apply knowledge I had learned later into this code, particularly with commenting and structure. I had since considered the importance of coding for other people; the idea that your code could be picked up by someone else and it wouldn’t immediately break or be hard to follow. The code had a lot of redundant commenting and a lot of excess whitespaces, as well as a few instances where curly braces were formatted in two different ways. While it was still working just fine in terms of its ability to run and the logic, it could definitely be slimmed down and cleaned up. Overall, I removed about 10% of the lines from the original that I felt weren’t needed and cleaned up what was there to something that I felt flowed nicely. 
 
 ### [Databases]
+[Project Two Final](https://github.com/BrandonRicks/brandonricks.github.io/tree/main/CS-340-Client-Server-Development)
+
+<span style="color:gray">*Briefly describe the artifact. What is it? When was it created?*</span>
+
+&emsp;&emsp;For databases, I selected the Project Two final from my CS340: Client/Server Development class. This project was completed August of 2021, and is primarily on the interactions between client, server, and middleware. The database was done through MongoDB, the client-side dashboard was done through Jupyter Notebook, and the middleware was written in Python. Maps, graphs, and UI were created with Plotly and Dash.
+
+<span style="color:gray">*Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?*</span>
+
+&emsp;&emsp;I selected this item to showcase my experience with full stack development, and the interactions between client and server using a python module I had written. The python module functions as middleware to allow the user to interact with the database indirectly through the dashboard. This gives the user CRUD capabilities without requiring them to access the database directly, which allows for a simpler and more secure interaction.
+
+<span style="color:gray">*Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?*</span>
+
+&emsp;&emsp;In module one, I had stated that I would like to improve the structure of the code and ensure the interaction between client and server was consistent. The python module is relatively straightforward: it establishes the connection to the database and holds all of the constructors and methods required to allow CRUD functionality for the user. The user’s privileges are based on their username and password credentials, which are stored server side and determine the user’s level of accessibility. Once connection is established, the user can then interact with the data in the database, based on their privileges.
+
+<span style="color:gray">*Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?*</span>
+
+&emsp;&emsp;When creating and improving this artifact, I learned a great deal about how information is accessed in a database indirectly. Allowing a user to interact through a client-side and having middleware control connection and manipulation helps to ensure this interaction is secure and simplified for the user. This interaction can respond dynamically and in real-time, using a simple UI in the dashboard, rather than needing the user to run database commands and directly manipulate data within the database. 
+<br/>&emsp;&emsp;The main challenge I faced was in relation to connectivity. As the original project was done through a virtual environment, there were sometimes instances where connection was inconsistent when connecting to the MongoDB. This would sometimes require one to unalias the database and reconnect with the specific port. Connection would also sometimes be an issue if the dashboard and/or the database process did not close successfully. These seemed to mostly be quirks of working within a virtual environment.
+
+
 ## Self-Relection
 ## Contact
 Name: Brandon Ricks<br/>
